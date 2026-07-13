@@ -104,11 +104,13 @@ The dataset contains approximately **100,000 ride booking records** including:
 
 ### Overall Dashboard
 
-> *(Add screenshot here)*
+<img width="1462" height="852" alt="image" src="https://github.com/user-attachments/assets/64b24c51-a16f-4de2-810c-34132e80051b" />
+
 
 ### Vehicle Type Dashboard
 
-> *(Add screenshot here)*
+<img width="1530" height="860" alt="image" src="https://github.com/user-attachments/assets/d9445c15-17c6-46cd-bb3f-d6e2128ceb13" />
+
 
 ---
 

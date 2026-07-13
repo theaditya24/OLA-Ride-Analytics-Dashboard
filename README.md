@@ -141,7 +141,7 @@ The dataset contains approximately **100,000 ride booking records** including:
 
 **Aryan Raj**
 
-GitHub: https://github.com/AryanRaj2608
+GitHub: https://github.com/theaditya24
 
 LinkedIn: www.linkedin.com/in/aditya-raj-11b402216
 
